@@ -1,0 +1,1 @@
+The Pharmacy Inventory Management System (PIMS) is designed to streamline and optimize the management of pharmaceutical inventory in retail and hospital pharmacies. The system will facilitate efficient tracking of medications, supplies, and equipment, ensuring that pharmacies maintain optimal stock levels and meet regulatory compliance.
